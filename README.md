@@ -37,11 +37,11 @@
 
 ### 📊 GitHub Stats (NO ERROR VERSION)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hangzrealll&show_icons=true&theme=tokyonight&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hangzreall&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Hangzrealll&theme=tokyonight&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=Hangzreall&theme=tokyonight&hide_border=true">
 </p>
 
 ---
@@ -53,7 +53,7 @@
 
 ### 🚀 Visitor Counter
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hangzrealll&color=blueviolet">
+  <img src="https://komarev.com/ghpvc/?username=Hangzreall&color=blueviolet">
 </p>
 
 ---
