@@ -1,181 +1,78 @@
-```{=html}
-<h1 align="center">
-```
-`<img src=https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&color=FF00FF&center=true&vCenter=true&width=600&lines=⚡+HANGZREALL+⚡;SYSTEM+BREACHED;ACCESS+GRANTED...>`{=html}
-```{=html}
-</h1>
-```
-```{=html}
-<p align="center">
-```
-`<img src=https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=2>`{=html}
-```{=html}
-</p>
-```
+# 👋 Hai, Saya Hangzreall!
 
-------------------------------------------------------------------------
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF7F&width=435&lines=Developer+%F0%9F%92%BB;+Tech+Enthusiast+%F0%9F%9A%80;+Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
 
-```{=html}
-<p align="center">
-```
-`<img src=https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif width=600>`{=html}
-```{=html}
-</p>
-```
+---
 
-------------------------------------------------------------------------
+## 🌟 Tentang Saya
+Saya adalah seorang developer yang passionate dalam membangun solusi digital yang inovatif dan user-friendly. Fokus utama saya terletak pada pengembangan web & aplikasi, dengan semangat terus belajar teknologi terbaru.
 
-```{=html}
-<h2 align="center">
-```
-🧠 INITIALIZING PROFILE...
-```{=html}
-</h2>
-```
-```{=html}
-<p align="center">
-```
-Name : Hangzreall `<br>`{=html} Role : Web Developer `<br>`{=html}
-Status : Active / Learning / Grinding `<br>`{=html} Focus : JavaScript,
-Automation, Exploits `<br>`{=html} System : Stable
-```{=html}
-</p>
-```
+- 📍 **Berdomisili di:** Indonesia 🇮🇩
+- 🎓 **Pendidikan:** [Isi status pendidikan kamu]
+- 💼 **Role:** [Isi pekerjaan/role saat ini]
+- 🌱 **Sedang mempelajari:** [Isi teknologi yang sedang dipelajari]
+- 🤝 **Terbuka untuk:** Kolaborasi, freelance, atau proyek open-source!
 
-------------------------------------------------------------------------
+---
 
-```{=html}
-<h2 align="center">
-```
-⚙️ TECH STACK
-```{=html}
-</h2>
-```
-```{=html}
-<p align="center">
-```
-`<img src=https://skillicons.dev/icons?i=js,html,css,nodejs,github,vscode,linux>`{=html}
-```{=html}
-</p>
-```
+## 🛠️ Tech Stack & Tools
 
-------------------------------------------------------------------------
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</div>
 
-```{=html}
-<h2 align="center">
-```
-📡 SYSTEM ANALYTICS
-```{=html}
-</h2>
-```
-```{=html}
-<p align="center">
-```
-`<img src=https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src=https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0d1117>`{=html}
-```{=html}
-</p>
-```
+> 💡 *Tip: Ganti badge di atas dengan bahasa/framework yang benar-benar kamu kuasai.*
 
-------------------------------------------------------------------------
+---
 
-```{=html}
-<h2 align="center">
-```
-🐍 DATA STREAM
-```{=html}
-</h2>
-```
-```{=html}
-<p align="center">
-```
-`<img src=https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg>`{=html}
-```{=html}
-</p>
-```
+## 📊 GitHub Stats
 
-------------------------------------------------------------------------
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hangzreall&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hangzreall&theme=radical" alt="GitHub Streak" />
+</div>
 
-```{=html}
-<h2 align="center">
-```
-💀 GLITCH CORE
-```{=html}
-</h2>
-```
-```{=html}
-<p align="center">
-```
-`<img src=https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif width=500>`{=html}
-```{=html}
-</p>
-```
+---
 
-------------------------------------------------------------------------
+## 🚀 Proyek Unggulan
 
-```{=html}
-<h2 align="center">
-```
-🧬 QUOTE.exe
-```{=html}
-</h2>
-```
-```{=html}
-<p align="center">
-```
-`<img src=https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=18&duration=4000&color=00FFFF&center=true&vCenter=true&width=500&lines=Code.+Break.+Fix.+Repeat.;No+system+is+safe.;Everything+can+be+modified.>`{=html}
-```{=html}
-</p>
-```
+| Proyek | Deskripsi | Tech | Link |
+|--------|-----------|------|------|
+| 🌐 [Nama Proyek 1](link) | Deskripsi singkat proyek | React, Node.js | [Demo](link) / [Repo](link) |
+| 📱 [Nama Proyek 2](link) | Deskripsi singkat proyek | Python, Flask | [Demo](link) / [Repo](link) |
+| 🛠️ [Nama Proyek 3](link) | Deskripsi singkat proyek | Next.js, Tailwind | [Demo](link) / [Repo](link) |
 
-------------------------------------------------------------------------
+---
 
-```{=html}
-<h2 align="center">
-```
-📍 VISITOR TRACE
-```{=html}
-</h2>
-```
-```{=html}
-<p align="center">
-```
-`<img src=https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ff00ff&style=flat-square>`{=html}
-```{=html}
-</p>
-```
+## 📬 Hubungi Saya
 
-------------------------------------------------------------------------
+<div align="center">
+  <a href="mailto:emailkamu@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/username">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/username">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter" />
+  </a>
+  <a href="https://websitekamu.com">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
-```{=html}
-<h2 align="center">
-```
-⚡ TERMINAL OUTPUT ⚡
-```{=html}
-</h2>
-```
-```{=html}
-<p align="center">
-```
-\> booting system... `<br>`{=html} \> loading modules ███████████ 100%
-`<br>`{=html} \> injecting style... `<br>`{=html} \> welcome back,
-Hangzreall
-```{=html}
-</p>
-```
+---
 
-------------------------------------------------------------------------
-
-```{=html}
-<p align="center">
-```
-`<img src=https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=140&section=footer&text=ACCESS%20LOGGED&fontSize=20&fontColor=ffffff&animation=twinkling>`{=html}
-```{=html}
-</p>
-```
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hangzreall&style=flat-square&color=00FF7F" alt="Profile Views" />
+  <p><i>Terima kasih telah mampir! Mari berkolaborasi dan berkarya bersama. 🚀✨</i></p>
+</div>
