@@ -24,13 +24,52 @@ Saya adalah seorang developer yang passionate dalam membangun solusi digital yan
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </div>
 
-> 💡 *Tip: Ganti badge di atas dengan bahasa/framework yang benar-benar kamu kuasai.*
+---
+
+## 🚀 Proyek Unggulan
+
+### 🎵 SpotMate Scraper-Downloader
+> REST API untuk mengunduh lagu dari Spotify via spotmate.online
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=rest&logoColor=white" alt="REST API" />
+  <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+</div>
+
+**✨ Fitur Utama:**
+- 🔗 Konversi link Spotify ke URL download langsung
+- 📦 Support format MP3 dengan metadata lengkap
+- 🌐 REST API ringan dengan endpoint `/get-url` & `/download`
+- 🐍📦 Integrasi mudah via Python, Node.js, atau HTTP client apapun
+- ⚡ Respons cepat dengan arsitektur server lokal
+
+**🔧 Quick Start:**
+# Clone & jalankan server
+git clone https://github.com/Hangzreall/SpotMate-Scraper-Downloader
+cd SpotMate-Scraper-Downloader
+node api-server.js 3000
+
+# Test endpoint
+curl http://localhost:3000/health
+
+**🔗 [Lihat Repository Lengkap →](https://github.com/Hangzreall/SpotMate-Scraper-Downloader)**
+
+---
+
+| Proyek | Deskripsi | Tech | Link |
+|--------|-----------|------|------|
+| 🎵 **[SpotMate Scraper-Downloader](https://github.com/Hangzreall/SpotMate-Scraper-Downloader)** | REST API downloader lagu Spotify | Node.js, Express, REST API | [Repo](https://github.com/Hangzreall/SpotMate-Scraper-Downloader) |
+| 📱 [Nama Proyek 2](link) | Deskripsi singkat proyek | [Tech Stack] | [Demo](link) / [Repo](link) |
+| 🛠️ [Nama Proyek 3](link) | Deskripsi singkat proyek | [Tech Stack] | [Demo](link) / [Repo](link) |
 
 ---
 
@@ -40,16 +79,6 @@ Saya adalah seorang developer yang passionate dalam membangun solusi digital yan
   <img src="https://github-readme-stats.vercel.app/api?username=Hangzreall&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hangzreall&theme=radical" alt="GitHub Streak" />
 </div>
-
----
-
-## 🚀 Proyek Unggulan
-
-| Proyek | Deskripsi | Tech | Link |
-|--------|-----------|------|------|
-| 🌐 [Nama Proyek 1](link) | Deskripsi singkat proyek | React, Node.js | [Demo](link) / [Repo](link) |
-| 📱 [Nama Proyek 2](link) | Deskripsi singkat proyek | Python, Flask | [Demo](link) / [Repo](link) |
-| 🛠️ [Nama Proyek 3](link) | Deskripsi singkat proyek | Next.js, Tailwind | [Demo](link) / [Repo](link) |
 
 ---
 
