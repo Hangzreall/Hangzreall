@@ -1,3 +1,4 @@
+cat > README.md << 'EOF'
 # 👋 Hai, Saya Hangzreall!
 
 <div align="center">
@@ -105,3 +106,4 @@ curl http://localhost:3000/health
   <img src="https://komarev.com/ghpvc/?username=Hangzreall&style=flat-square&color=00FF7F" alt="Profile Views" />
   <p><i>Terima kasih telah mampir! Mari berkolaborasi dan berkarya bersama. 🚀✨</i></p>
 </div>
+EOF
