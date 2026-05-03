@@ -46,7 +46,7 @@
 
 ## 🖼️ Preview Website
 <p align="center">
-  <img src="https://s.wordpress.com/mshots/v1/https://hangzpedia.web.id?w=800">
+  <img src="https://api.microlink.io/?url=https://hangzpedia.web.id&screenshot=true&meta=false&embed=screenshot.url)">
 </p>
 
 ---
