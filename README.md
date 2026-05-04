@@ -77,13 +77,14 @@ I'm a passionate developer from Indonesia who loves turning complex ideas into c
 
 ---
 
-## 🎧 Now Listening
+## 🎧 Now Listening on Spotify
 
 <div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=317vkncp7dluw7qgoov35zrl2avy&count=3&unique=true" alt="Recently Played on Spotify" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=317vkncp7dluw7qgoov35zrl2avy&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=317vkncp7dluw7qgoov35zrl2avy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=true&bar_color=53b14f&mode=dark" alt="Spotify Status" />
+  </a>
   <br>
-  <sub>🔗 Ganti <code>YOUR_SPOTIFY_ID</code> dengan username Spotify kamu. <br>
-  Untuk fitur <b>"Now Playing"</b> yang update real-time, deploy: <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a></sub>
+  <sub>🎵 Real-time Spotify activity • Click to view profile</sub>
 </div>
 
 ---
@@ -101,7 +102,7 @@ I'm a passionate developer from Indonesia who loves turning complex ideas into c
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" alt="Email" />
   </a>
   <a href="https://open.spotify.com/user/317vkncp7dluw7qgoov35zrl2avy">
-    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1A1A1A" alt="Spotify" />
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1A1A1A" alt="Spotify Profile" />
   </a>
 </div>
 
