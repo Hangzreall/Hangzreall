@@ -52,31 +52,6 @@ I'm a passionate developer from Indonesia who loves turning complex ideas into c
 
 ---
 
-## 🏆 Certifications & Achievements
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        📜 <b>Web Development Bootcamp</b><br>
-        <sub>Completed 2024 • Dicoding Indonesia</sub>
-      </td>
-      <td align="center" width="33%">
-        🥇 <b>1st Place Hackathon</b><br>
-        <sub>Local Tech Event • 2023</sub>
-      </td>
-      <td align="center" width="33%">
-        🎖️ <b>Open Source Contributor</b><br>
-        <sub>50+ Merged PRs • GitHub Community</sub>
-      </td>
-    </tr>
-  </table>
-  <br>
-  <sub><i>💡 Edit this section to match your actual certifications, awards, or milestones!</i></sub>
-</div>
-
----
-
 ## 🎧 Now Listening on Spotify
 
 <div align="center">
