@@ -1,39 +1,24 @@
-<!-- 🌊 Animated Wave Header -->
+<!-- 🌊 Animated Wave Header (Dracula Palette) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=👋%20fufuganyang&fontSize=36&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20Developer%20•%20Discord%20Bot%20Creator&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9:ff79c6:50fa7b&height=180&section=header&text=👋%20fufuganyang&fontSize=36&fontAlignY=40&animation=fadeIn&fontColor=ffffff&desc=Developer%20•%20Creator%20•%20Learner&descAlignY=55&descAlign=50" alt="Header" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&color=00D4FF&width=520&lines=Building+Web+Apps+%F0%9F%92%BB;Creating+Discord+Bots+%F0%9F%8E%B5;Automating+The+World+%F0%9F%9A%80;Open+Source+First+%F0%9F%8C%8D" alt="Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=700&color=bd93f9&width=520&lines=Building+Web+Apps+%F0%9F%92%BB;Creating+Discord+Bots+%F0%9F%8E%B5;Automating+The+World+%F0%9F%9A%80;Always+Leveling+Up+%F0%9F%8C%8D" alt="Typing" />
 </div>
 
-<!-- 🎯 About Section - Clean Minimalist -->
-## 🎯 About Me
+<!-- 📖 About & Personal Quote -->
+## 🌊 About Me
 
-> *"Simplicity is the soul of efficiency."* — Austin O'Malley
+> *"Code is poetry written in logic, compiled with passion. Every bug is a lesson, every commit is progress."*
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/📍-Indonesia-00D4FF?style=for-the-badge" /><br/>
-        <sub><b>Lokasi</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💻-Web+%26+Bot+Dev-7B2CBF?style=for-the-badge" /><br/>
-        <sub><b>Fokus</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🌱-Always+Learning-00C9A7?style=for-the-badge" /><br/>
-        <sub><b>Mindset</b></sub>
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🤝-Open+To+Collab-FF6B6B?style=for-the-badge" /><br/>
-        <sub><b>Availability</b></sub>
-      </td>
-    </tr>
-  </table>
-</div>
+I'm a passionate developer from Indonesia who loves turning complex ideas into clean, efficient, and user-friendly applications. Whether it's crafting Discord bots, building modern web interfaces, or automating daily tasks, I thrive on continuous learning and open-source collaboration. I believe technology should simplify life, not complicate it.
 
-<!-- 🛠️ Tech Stack - Clean Badges -->
+📍 **Location:** Indonesia 🇮🇩  
+💼 **Focus:** Web Development • Discord Bots • API & Automation  
+🌱 **Mindset:** Always Learning, Always Shipping  
+🤝 **Open To:** Collaborations • Open Source • Freelance Projects  
+
+---
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -45,24 +30,64 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&labelColor=2D2D2A" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=2D2D2A" alt="CSS3" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=2D2D2A" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=2D2D2A" alt="GitHub" />
 </div>
 
-<!-- 📊 GitHub Stats - Minimalist Layout -->
-## 📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics & Top Languages
 
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=fufuganyang&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2CBF" alt="GitHub Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=fufuganyang&theme=radical&hide_border=true&bg_color=0D1117&ring=00D4FF&fire=7B2CBF" alt="Streak Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=fufuganyang&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api/top-languages/?username=fufuganyang&theme=dracula&hide_border=true&layout=compact&card_width=320" alt="Top Languages" /></td>
+    </tr>
+    <tr>
+      <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fufuganyang&theme=dracula&hide_border=true" alt="Streak Stats" /></td>
     </tr>
   </table>
   <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fufuganyang&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=7B2CBF&point=FF6B6B" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fufuganyang&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
-<!-- 📬 Connect Section - Minimal Social Links -->
+---
+
+## 🏆 Certifications & Achievements
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        📜 <b>Web Development Bootcamp</b><br>
+        <sub>Completed 2024 • Dicoding Indonesia</sub>
+      </td>
+      <td align="center" width="33%">
+        🥇 <b>1st Place Hackathon</b><br>
+        <sub>Local Tech Event • 2023</sub>
+      </td>
+      <td align="center" width="33%">
+        🎖️ <b>Open Source Contributor</b><br>
+        <sub>50+ Merged PRs • GitHub Community</sub>
+      </td>
+    </tr>
+  </table>
+  <br>
+  <sub><i>💡 Edit this section to match your actual certifications, awards, or milestones!</i></sub>
+</div>
+
+---
+
+## 🎧 Now Listening
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=317vkncp7dluw7qgoov35zrl2avy&count=3&unique=true" alt="Recently Played on Spotify" />
+  <br>
+  <sub>🔗 Ganti <code>YOUR_SPOTIFY_ID</code> dengan username Spotify kamu. <br>
+  Untuk fitur <b>"Now Playing"</b> yang update real-time, deploy: <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a></sub>
+</div>
+
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
@@ -72,15 +97,19 @@
   <a href="https://github.com/fufuganyang">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A" alt="GitHub" />
   </a>
-  <a href="mailto:fufuganyang@example.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1A1A" alt="Email" />
+  </a>
+  <a href="https://open.spotify.com/user/317vkncp7dluw7qgoov35zrl2avy">
+    <img src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=1A1A1A" alt="Spotify" />
   </a>
 </div>
 
-<!-- ✨ Footer with Animated Counter -->
+---
+
 <div align="center">
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=fufuganyang&style=flat-square&color=00D4FF&label=👁️+Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=fufuganyang&style=flat-square&color=bd93f9&label=👁️+Profile+Views" alt="Profile Views" />
   <img src="https://profile-counter.glitch.me/fufuganyang/count.svg" alt="Visitor Counter" />
   <br/><br/>
   <sub><i>Built with ❤️ & ☕ by fufuganyang • 2026</i></sub>
