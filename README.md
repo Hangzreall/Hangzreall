@@ -54,11 +54,11 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=Hangzreall&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2CBF" alt="Stats" /></td>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Hangzreall&theme=radical&hide_border=true&bg_color=0D1117&ring=00D4FF&fire=7B2CBF" alt="Streak" /></td>
+      <td><img src="https://github-readme-stats.vercel.app/api?username=fufuganyang&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=00D4FF&icon_color=7B2CBF" alt="Stats" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=fufuganyang&theme=radical&hide_border=true&bg_color=0D1117&ring=00D4FF&fire=7B2CBF" alt="Streak" /></td>
     </tr>
   </table>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hangzreall&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=7B2CBF&point=FF6B6B" width="100%" alt="Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fufuganyang&theme=react-dark&hide_border=true&area=true&color=00D4FF&line=7B2CBF&point=FF6B6B" width="100%" alt="Activity" />
 </div>
 
 <!-- Featured Projects dengan Card Design -->
@@ -72,13 +72,13 @@
         <sub>Personal portfolio website</sub><br>
         <img src="https://img.shields.io/badge/React_19-Vite-CSS3-00D4FF?style=flat-square" /><br>
         <a href="https://hangzpedia.my.id"><img src="https://img.shields.io/badge/🔗-Live_Demo-00C9A7?style=flat-square" /></a>
-        <a href="https://github.com/Hangzreall/Portofolio"><img src="https://img.shields.io/badge/📦-Repo-7B2CBF?style=flat-square" /></a>
+        <a href="https://github.com/fufuganyang/Portofolio"><img src="https://img.shields.io/badge/📦-Repo-7B2CBF?style=flat-square" /></a>
       </td>
       <td>
         <b>🎵 music-bot</b><br>
         <sub>Discord music bot (no Lavalink)</sub><br>
         <img src="https://img.shields.io/badge/Discord.js-play--dl-JS-5865F2?style=flat-square" /><br>
-        <a href="https://github.com/Hangzreall/music-bot"><img src="https://img.shields.io/badge/📦-Repo-7B2CBF?style=flat-square" /></a>
+        <a href="https://github.com/fufuganyang/music-bot"><img src="https://img.shields.io/badge/📦-Repo-7B2CBF?style=flat-square" /></a>
       </td>
     </tr>
     <tr>
@@ -87,14 +87,14 @@
         <sub>Static personal website</sub><br>
         <img src="https://img.shields.io/badge/HTML-CSS-GitHub_Pages-E34F26?style=flat-square" /><br>
         <a href="https://hangzreall.github.io/my-web/"><img src="https://img.shields.io/badge/🔗-Live_Demo-00C9A7?style=flat-square" /></a>
-        <a href="https://github.com/Hangzreall/my-web"><img src="https://img.shields.io/badge/📦-Repo-7B2CBF?style=flat-square" /></a>
+        <a href="https://github.com/fufuganyang/my-web"><img src="https://img.shields.io/badge/📦-Repo-7B2CBF?style=flat-square" /></a>
       </td>
       <td>
         <b>💳 Payment UI</b><br>
         <sub>Modern payment interface demo</sub><br>
         <img src="https://img.shields.io/badge/HTML-CSS-JS-1572B6?style=flat-square" /><br>
         <a href="https://payment-seven-green.vercel.app"><img src="https://img.shields.io/badge/🔗-Live_Demo-00C9A7?style=flat-square" /></a>
-        <a href="https://github.com/Hangzreall/Payment"><img src="https://img.shields.io/badge/📦-Repo-7B2CBF?style=flat-square" /></a>
+        <a href="https://github.com/fufuganyang/Payment"><img src="https://img.shields.io/badge/📦-Repo-7B2CBF?style=flat-square" /></a>
       </td>
     </tr>
   </table>
@@ -107,7 +107,7 @@
   <a href="https://t.me/polsekjaktim">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1A1A1A" alt="Telegram" />
   </a>
-  <a href="https://github.com/Hangzreall">
+  <a href="https://github.com/fufuganyang">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1A1A" alt="GitHub" />
   </a>
   <a href="mailto:cswhatsapp@rommiui.com">
@@ -117,11 +117,11 @@
 
 <!-- Footer dengan Animasi -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hangzreall&style=flat-square&color=00D4FF&label=👁️+Profile+Views" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=fufuganyang&style=flat-square&color=00D4FF&label=👁️+Profile+Views" alt="Views" />
   <br><br>
-  <img src="https://profile-counter.glitch.me/Hangzreall/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/fufuganyang/count.svg" alt="Visitor Count" />
   <br>
-  <sub><i>Built with ❤️ & ☕ by Hangzreall • 2026</i></sub>
+  <sub><i>Built with ❤️ & ☕ by fufuganyang • 2026</i></sub>
 </div>
 
 <!-- Hidden decorative elements -->
